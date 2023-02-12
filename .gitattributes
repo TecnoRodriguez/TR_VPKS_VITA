@@ -1,1 +1,5 @@
 *.vpk filter=lfs diff=lfs merge=lfs -text
+*.suprx filter=lfs diff=lfs merge=lfs -text
+*.eboot filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
